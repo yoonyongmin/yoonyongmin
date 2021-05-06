@@ -1,5 +1,5 @@
-<h1 align="center">👋Front-end Developer Yoon👋</h1>
-<h3 align="center">I am a Front-end developer who wants to develop more</h3>
+<h1 align="center">👋Developer Yoon👋</h1>
+<h3 align="center">I am a developer who wants to develop more</h3>
 
 <br/>
 
